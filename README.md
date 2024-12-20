@@ -21,8 +21,8 @@ Welcome to my personal website! This is where I share a bit about myself, my int
 
 ## Social Media Links
 
-- [Instagram](https://www.instagram.com/un5eemly)
-- [Twitter](https://twitter.com/un5eemly)
+- [Instagram](https://www.instagram.com/artistic_vinayak)
+- [Twitter](https://twitter.com/un-5eemly)
 - [GitHub](https://www.github.com/un5eemly)
 
 ## How to Use
