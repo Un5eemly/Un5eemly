@@ -1,17 +1,17 @@
 # Un5eemly - Personal Website
 
-Welcome to my personal website! This is where I share a bit about myself, my interests, and my work. I’m passionate about technology, hacking, drawing, and gaming, and I’m always looking for new challenges and opportunities to grow.
+Welcome to my personal website! This is where I share a bit about myself, my interests, and my work.
 
 ## About Me
 
 - **Name**: Un5eemly (Real Name: Vinayak Yadav)
 - **Age**: 15 years old
 - **Location**: India
-- **Interests**: 
-  - Hacking
+- **Interests**:
+  - Technology
+  - Linux (arch btw)
   - Drawing
   - Gaming
-- **Curious Learner**: Always eager to explore and learn new things.
 
 ## Features
 
@@ -24,13 +24,3 @@ Welcome to my personal website! This is where I share a bit about myself, my int
 - [Instagram](https://www.instagram.com/artistic_vinayak)
 - [Twitter](https://twitter.com/un-5eemly)
 - [GitHub](https://www.github.com/un5eemly)
-
-## How to Use
-
-1. Clone the repository to your local machine.
-2. Open the `index.html` file in your browser to view the website.
-
-```bash
-git clone https://github.com/un5eemly/personal-website.git
-cd personal-website
-open index.html
